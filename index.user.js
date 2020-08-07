@@ -3,6 +3,7 @@
 // @version  1
 // @grant    none
 // @require  https://code.jquery.com/jquery-3.5.1.min.js
+// @match     *://www.gourmet-lieblingsspeisen.at/*
 // ==/UserScript==
 
 const KEY_ENTER = 13;
